@@ -5,6 +5,7 @@ This project is a Machine Learning–based Network Intrusion Detection System (N
 It provides a real-time interactive dashboard built with Streamlit for monitoring and analysis.
 
 ** Problem Statement **
+<br>
 Cyberattacks like DDoS, port scanning, and unauthorized intrusions strike every 39 seconds, costing businesses $4.35 million per breach. Traditional signature-based security systems can't detect new or evolving threats in real-time, leaving networks vulnerable to zero-day attacks. This project develops an intelligent Machine Learning-based intrusion detection system that learns attack patterns dynamically and accurately classifies network traffic as benign or malicious. Unlike legacy systems that react after damage occurs, our solution provides proactive, real-time threat prevention.
 
 ** Features **
